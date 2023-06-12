@@ -15,6 +15,7 @@ Your Plunet Team
 The Plunet ApplicationManager allows to run automated jobs as part of a workflow that call a script that resides on the server.  Upon delivery of the automated job Plunet can read a result file which allows for conditional/branching workflows.
 
 [Abbyy OCR Automated Job to convert PDF files to DOCX](https://github.com/PlunetBusinessManager/ApplicationManager-Abbyy-OCR "Abbyy OCR Automated Job to convert PDF files to DOCX")
+[File Renaming Job with BATCH Script](https://github.com/PlunetBusinessManager/ApplicationManager-File-Renaming "File Renaming Batch")
 
 ### SOAP API Examples
 [SOAP API Examples written in Python](https://github.com/PlunetBusinessManager/SOAP-API-Samples "SOAP API Examples written in Python")
