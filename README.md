@@ -22,8 +22,10 @@ The Plunet ApplicationManager allows to run automated jobs as part of a workflow
 ### Javascript Customization Samples
 [JS Samples for Javascript Customization](https://github.com/PlunetBusinessManager/JS-Customization-Samples)
 
-## Other noteworthy repositories
+## License
+Distributed under the MIT License. See LICENSE for more information.
 
+## Other noteworthy repositories
 
 | Project Name |Author|Language|Notes|
 |----|--|--|--|
