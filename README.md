@@ -24,7 +24,7 @@ The Plunet ApplicationManager allows to run automated jobs as part of a workflow
 
 [File Renaming Job with BATCH Script](https://github.com/PlunetBusinessManager/ApplicationManager-File-Renaming "File Renaming Batch")
 
-[Yamagata QADistiller Automatic Job with BATCH SCRIPT](https://github.com/PlunetBusinessManager/ApplicationManager-Yamagata-QADistiller "QADistiller Batch")
+[Yamagata QADistiller Automatic Job with BATCH Script](https://github.com/PlunetBusinessManager/ApplicationManager-Yamagata-QADistiller "QADistiller Batch")
 
 ## Other noteworthy repositories
 
