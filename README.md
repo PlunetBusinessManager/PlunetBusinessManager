@@ -1,6 +1,6 @@
 # 👋 Hi, we are Plunet!
 
-Welcome to the official GitHub account of Plunet! We specialize in automation for Plunet BusinessManager, providing API scripts, ApplicationManager Scripts, and Javascript Injection examples.
+Welcome to the official GitHub account of Plunet! Here, we specialize in automation for Plunet BusinessManager, providing API scripts, ApplicationManager Scripts, and Javascript Customization examples.
 
 Explore our repository for code snippets, examples, and best practices to optimize your Plunet BusinessManager experience.
 
