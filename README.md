@@ -19,5 +19,5 @@ The Plunet ApplicationManager allows to run automated jobs as part of a workflow
 ### SOAP API Examples
 [SOAP API Examples written in Python](https://github.com/PlunetBusinessManager/SOAP-API-Samples "SOAP API Examples written in Python")
 
-### Javascript Injection Samples
-nothing to see here yet :cry:
+### Javascript Customization Samples
+[JS Samples for Javascript Customization](https://github.com/PlunetBusinessManager/JS-Customization-Samples)
