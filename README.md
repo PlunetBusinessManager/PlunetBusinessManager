@@ -11,7 +11,7 @@ Stay updated with our expanding script library based and unlock the full potenti
 Your Plunet Team
 
 ## Repositories
-### SOAP API Examples
+### SOAP API Samples
 [SOAP API Samples written in various Programming Languages](https://github.com/PlunetBusinessManager/SOAP-API-Samples "SOAP API Samples written in various languages")
 
 ### Javascript Customization Samples
