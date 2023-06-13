@@ -12,7 +12,7 @@ Your Plunet Team
 
 ## Repositories
 ### SOAP API Examples
-[SOAP API Examples written in Python](https://github.com/PlunetBusinessManager/SOAP-API-Samples "SOAP API Examples written in Python")
+[SOAP API Examples written in various Programming Languages](https://github.com/PlunetBusinessManager/SOAP-API-Samples "SOAP API Examples written in various languages")
 
 ### Javascript Customization Samples
 [JS Samples for Javascript Customization](https://github.com/PlunetBusinessManager/JS-Customization-Samples)
