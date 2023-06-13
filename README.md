@@ -36,5 +36,6 @@ The Plunet ApplicationManager allows to run automated jobs as part of a workflow
 |----|--|--|--|
 |[Plunet API Wrapper](https://github.com/kuhnemann/plunetapi)|Henrik Kühnemann|Python|A thin wrapper to facilitate interactions with the PlunetAPI.|
 [Plunet API Python Client](https://github.com/kuhnemann/pyplunet)|Henrik Kühnemann|Python|Modern Python client for interacting with the Plunet SOAP API, without having to deal with any of the soapiness.|
+[Blackbird Plunet Connector)(https://github.com/bb-io/Plunet)|Blackbird Team|C#|Blackbird develops various integrations for building interactive connections between tools commonly used in language industry.|
 
 
