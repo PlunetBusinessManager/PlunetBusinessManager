@@ -17,8 +17,6 @@ Your Plunet Team
 ### Javascript Customization Samples
 [JS Samples for Javascript Customization](https://github.com/PlunetBusinessManager/JS-Customization-Samples)
 
-[EXTERNAL - Ian Barrows Plunet on Steroids - Javascript + AutoHotKey](https://github.com/PlunetBusinessManager/Plunet-on-Steroids-Starter-Kit)
-
 ### ApplicationManager
 The Plunet ApplicationManager allows to run automated jobs as part of a workflow that call a script that resides on the server.  Upon delivery of the automated job Plunet can read a result file which allows for conditional/branching workflows.
 
@@ -27,6 +25,10 @@ The Plunet ApplicationManager allows to run automated jobs as part of a workflow
 [File Renaming Job with BATCH Script](https://github.com/PlunetBusinessManager/ApplicationManager-File-Renaming "File Renaming Batch")
 
 [Yamagata QADistiller Automatic Job with BATCH Script](https://github.com/PlunetBusinessManager/ApplicationManager-Yamagata-QADistiller "QADistiller Batch")
+
+### Customer Repositories
+[EXTERNAL - Ian Barrows Plunet on Steroids - Javascript + AutoHotKey](https://github.com/PlunetBusinessManager/Plunet-on-Steroids-Starter-Kit)
+
 
 ## Other noteworthy repositories
 
