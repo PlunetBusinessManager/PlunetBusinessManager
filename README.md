@@ -26,6 +26,8 @@ The Plunet ApplicationManager allows to run automated jobs as part of a workflow
 
 [Yamagata QADistiller Automatic Job with BATCH Script](https://github.com/PlunetBusinessManager/ApplicationManager-Yamagata-QADistiller "QADistiller Batch")
 
+[Job Status Change Automatic Job](https://github.com/PlunetBusinessManager/ApplicationManager-Change-Job-Status)
+
 ### Customer Repositories
 [EXTERNAL - Ian Barrows Plunet on Steroids - Javascript + AutoHotKey](https://github.com/PlunetBusinessManager/Plunet-on-Steroids-Starter-Kit)
 
